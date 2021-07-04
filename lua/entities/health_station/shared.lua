@@ -11,3 +11,4 @@ function ENT:SetupDataTables()
 	self:NetworkVar("Int", 0, "price")
 	self:NetworkVar("Entity", 0, "owning_ent")
 end
+ 
